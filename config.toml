@@ -1,0 +1,54 @@
+baseURL = "/"
+title = ""
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = ""
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "news"
+    name = "news"
+    title = "news"
+    url = "/news/"
+    weight = -110
+  [[menu.main]]
+    identifier = "faq"
+    name = "faq"
+    title = "faq"
+    url = "/faq/"
+    weight = -100
+  [[menu.main]]
+    identifier = ""
+    name = "donate"
+    title = "donate"
+    url = "/donate/"
+    weight = -90
+  [[menu.main]]
+    identifier = ""
+    name = "discord"
+    title = "discord"
+    url = "/discord/"
+    weight = -80
+  [[menu.main]]
+    identifier = ""
+    name = "tools"
+    title = "tools"
+    url = "/tools/"
+    weight = -70
+
+# Configuration Features
+[params]
+  description = "rpdl.net"
+  header_title = "rpdl.net"
+  header_subtitle = "Safely download games, FAST."
+  home_image = "/images/logo.png"
+  recent_posts = 0
+  mainSections = ["posts", "post", "blog"]
+  [params.style]
+    backgroundColor = "#0f172a"
+    fontColor = "white"

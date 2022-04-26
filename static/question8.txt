@@ -1,0 +1,47 @@
+rpdl, dude, you're a lifesaver.
+I've not been using site for long, and so far everything seems fine. Maybe UI could be a little bit nicer to the eye, but looks okay for now.
+no not really
+Thank you for all your work. You are providing a more or less free service, how can one possibly complain?
+Please, please, please, remove the awful blacklist/whitelist for torrent clients. Currently, I'm fortunate I have a whitelisted client, but at your 'random' whims I could be disconnected forever at any time.
+For instance, I'm on QBittorrent v4.3.9. Version 4.4.x is completely broken on Windows, so it may be a very long time before I want to switch to v4.4.x. Please don't exclude me (and many others).
+Great job man, thank you very much
+I think it's working great
+Free beer for everyone !!!!!
+None
+ye
+I'm too dumb to figure out how to grab all torrents on the new site, since IDM grabber can't figure it out.
+announce stuff on discord, I did completely miss the story behind going private for example
+Nope, all good.
+So far everything is good. Keep up the good work ;)
+can't open multiple pages at once
+I'm a bad boy
+Thank you for the service you provide!
+If you return the client whitelist, which I'm in favor of, a general explanation of why the chosen clients were chosen, over other more popular clients, will be appreciated. A lot of people may actually not be very familiar with what their p2p clients are actually doing and what you don't know can harm you so improving everyone's basic knowledge about this and why some clients are not healthy to use, would be nice.
+
+If we're going to stay as a private tracker, which I'm in favor of, a general explanation of how to get a temporary email for those who do not know how, would be good. I use https://temp-mail.org/en/ for temporary email addresses so maybe just a few brief points on using it to sign up would be good.
+idk honestly i think everything is ok
+can't think of anything
+The site could be a little less daunting
+Nothing more to add
+rpdl is awesome, a life saver since nopy was closed.
+My only concern is that your operation is sustainable and that it doesn't go under like how nopy did. Tell us what you need to continue the service and so it won't suffer (slowed dl speeds).
+The Website seems a little bit Boring.
+Very happy. Would love to minimize leechers.
+Nothing your doing a great work.
+Good work, rpdl! Just remember to rest from time to time ;)
+Add a FAQ section on the site, with the first question being "Why my torrents won't start" and answer with "Sign in first". I can't believe so many people have asked this question on Discord already
+Can you fix double zip archives? 
+nothing to say, 
+Well this is snok, so you all ready know about me preferring trying to keep things as open and accessible as possible. I'm more for "easy and for the people" than things like getting releases super fast or maxing out my bandwidth, but I like the direction everything has taken. Btw, I'm indifferent in regards to whitelisting clients, It depends on how it effects the service. We might as well allow all clients since there's no extra leechers from other sites linking the torrents is my thinking.
+Please don't focus too much on holding onto old game versions, at least for now. Delete them and let torrents die if resources are tight, game developers are likely to publish those anyway. Instead focus on what most people are looking for.
+no real negatives, only comment would be the time lag between f95 update and torrent availability which is due to the manual process currently.   So automation of steps would benefit here.
+Tbh I liked when you published torrents on f95 and for some time I thought you've stopped working until I saw you decided to go with private torrents. I mean I get it but it kinda ruins initial idea with helping community to get games faster
+1. The latest added and search result lists should show the game version and/or latest update date (not just the date the torrent was added/updated) that way we will know that the torrent points to a current or outdated version without the need to look into the details page.
+2. The "download button" should have a visual cue in the torrent detail page
+3. If an entry has multiple torrents (eg: "Season 1" and "Season 2"), the search result page should show both versions. The latest list should show which torrent was updated (eg: "April 1st - My Big Game (Season 1) v0.4" or something like that). If multiple torrents were updated for the same game, the list should show all that were modified
+Really like most of it. Preferred the public, but have no issue with private. All in all it is doing what it needed, fill the hole left by nopy. Plus I try to help and everything seeds till I hit a ratio of 15.
+speed is good, discord is fun to talk. we just gotta make sure that those torrents get to the public. a barely known torrent is a sad torrent. the more the merrier! gotta make use of ma uploadspeed after all!
+the service does what i want/need it to do, so keep up the good work!
+the client whitelist question wasn't well explained. 
+i just noticed you removed the whitelist which means i can go back to using my seedbox's, Which means i can leave the torrents up until their new versions come out and offer 10g connections.
+I think more metadata for each torrent would be nice e.g. a poster, some screenshots etc. Perhaps it could be part of the torrent description. 
