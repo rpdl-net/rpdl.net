@@ -1,5 +1,5 @@
 baseURL = "/"
-title = ""
+title = "rpdl.net"
 languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
@@ -17,28 +17,28 @@ copyright = ""
     url = "/news/"
     weight = -110
   [[menu.main]]
-    identifier = "faq"
-    name = "faq"
-    title = "faq"
-    url = "/faq/"
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
     weight = -100
   [[menu.main]]
-    identifier = ""
+    identifier = "donate"
     name = "donate"
     title = "donate"
     url = "/donate/"
     weight = -90
   [[menu.main]]
-    identifier = ""
+    identifier = "discord"
     name = "discord"
     title = "discord"
     url = "/discord/"
     weight = -80
   [[menu.main]]
-    identifier = ""
-    name = "tools"
-    title = "tools"
-    url = "/tools/"
+    identifier = "newest"
+    name = "newest"
+    title = "newest"
+    url = "https://dl.rpdl.net/torrents/recent"
     weight = -70
 
 # Configuration Features
