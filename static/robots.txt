@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cancelled/
+Disallow: /success/
+Disallow: /shitty/
+Sitemap: https://rpdl.net/sitemap.xml
