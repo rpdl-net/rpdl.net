@@ -1,4 +1,4 @@
-baseURL = "https://rpdl.net/"
+baseURL = "/"
 title = "rpdl.net"
 languageCode = "en-us"
 theme = "devise"
