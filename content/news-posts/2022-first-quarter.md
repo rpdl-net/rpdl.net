@@ -17,7 +17,7 @@ We've successfully moved *ALL* services off Cloudflare. There's no middle-man an
 
 ## Scans and reports
 
-`rpdl.net:` Everything is served locally _except_ some JS from Stripe on our [Donate](/donate) page.  
+`rpdl.net:` Everything is served locally _except_ some JS from Stripe on our [Donate](https://rpdl.net/donate/) page.  
 [Mozilla Observatory](https://observatory.mozilla.org/analyze/rpdl.net?third-party=false) - [rpdl.net SSL](https://www.ssllabs.com/ssltest/analyze.html?d=rpdl.net&hideResults=on) - [www.rpdl.net SSL](https://www.ssllabs.com/ssltest/analyze.html?d=www.rpdl.net&hideResults=on&latest) - [Security Headers](https://securityheaders.com/?q=rpdl.net&hide=on&followRedirects=on)
 
 `dl.rpdl.net:` This one is a little tricker so I had to allow one instance of `unsafe-eval`.  
@@ -91,7 +91,7 @@ Whatever happens I'll keep people in the loop on [Discord](/discord)
 # Tools {#tools}
 
 We've had a few community members step up to the plate and design and host some third party tools!  
-I've setup an [index](/tools) for them, be sure to check them out.
+I've setup an [index](https://rpdl.net/tools/) for them, be sure to check them out.
 
 # Branching out from Ren'Py {#games}
 
@@ -109,7 +109,7 @@ Our [Discord](/discord) is on the way to 1,000 users too, sitting at 902 current
 # Game Developers {#developers}
 
 Some people wonder how we get some releases faster than other sites and most of that is down to developers giving us builds to distribute for them, it's mutually beneficial.  
-If you are a game developer, feel free to hop on [Discord](/discord) or [email me](/contact), we'd love to work with you!  
+If you are a game developer, feel free to hop on [Discord](/discord) or [email me](https://rpdl.net/contact/), we'd love to work with you!  
 
 We haven't had any changes to our no-movement list, this is something we'll always honour.  
 If your game is here and you don't want it here, just [let us know](/contact)
@@ -119,7 +119,7 @@ If your game is here and you don't want it here, just [let us know](/contact)
 The one topic I truly dislike discussing, but it's a necessary evil so here goes.  
 Our funding at the moment is good but we're always looking to expand. One aspect to our current funding model that is a cause for concern is we're extremely reliant on 3-4 generous donors. I would _much_ prefer to be reliant on the many instead of the few but this is just how it is for now.  
 
-[If you wanna join the cool kids club.](/donate)  
+[If you wanna join the cool kids club.](https://rpdl.net/donate/)  
 
 PS: We still don't have advertisements and never will.  
 PPS: We also added [Ko-fi](https://ko-fi.com/rpdl) and our application to subscribestar was denied as our project doesn't suit them.  
@@ -138,7 +138,7 @@ The answers are as I expected really. As a note, I know there are a few people f
 
 > How do you feel about the software behind dl.rpdl.net - what's the feature you'd most like to see added (or removed).
 
-I've attached this as a [text file](/question2.txt), otherwise we'd be here all day. Anyway, we've addressed some of these already (additional info, links to f95zone/patreon, RSS and [tools](/tools) to automate).  
+I've attached this as a [text file](/question2.txt), otherwise we'd be here all day. Anyway, we've addressed some of these already (additional info, links to f95zone/patreon, RSS and [tools](https://rpdl.net/tools/) to automate).  
 Some are defunct (issues with the old `rpdl.net` site).   
 Some are also under development (comments, number of downloads, tags)  
 To add some context also, when I was initially bridging all content to the new site I didn't include the links to f95zone or to the developers patreon. I added that functionality maybe a week or so afterwards? There are still some old games that haven't been updated which I will eventually get around to finishing.
@@ -201,7 +201,7 @@ I want to say a special thanks to @cake for stepping up, they've added a bunch o
 Special thanks too to @miraclemike who's been my go-to for I guess, sanity checks? Thanks so much.  
 Huge thanks to all our donors too who make this entire thing possible, you are the real MVPs.
 
-Even if it's just $1 a month, every little helps. Just ~70 patrons at the lowest tier affords us another huge 40TB server with a 1Gbit/s uplink. It mightn't be a lot to you but it definitely adds up so go [donate!](/donate)
+Even if it's just $1 a month, every little helps. Just ~70 patrons at the lowest tier affords us another huge 40TB server with a 1Gbit/s uplink. It mightn't be a lot to you but it definitely adds up so go [donate!](https://rpdl.net/donate/)
 
 ---
 
