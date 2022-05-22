@@ -112,7 +112,7 @@ Some people wonder how we get some releases faster than other sites and most of 
 If you are a game developer, feel free to hop on [Discord](/discord) or [email me](https://rpdl.net/contact/), we'd love to work with you!  
 
 We haven't had any changes to our no-movement list, this is something we'll always honour.  
-If your game is here and you don't want it here, just [let us know](/contact)
+If your game is here and you don't want it here, just [let us know](https://rpdl.net/contact/)
 
 # Funding {#funding}
 
