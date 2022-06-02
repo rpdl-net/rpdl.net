@@ -8,6 +8,8 @@ url: /news/
 description: "Safely download games, FAST."
 ---
 
+`Jun 02, 2022` - [June 2022 Quick catchup](https://rpdl.net/news/june-2022/)
+
 `Apr 06, 2022` - [2022 - First Quarter](https://rpdl.net/news/2022-first-quarter/)
 
 `Dec 31, 2021` - [December 2021 Roundup](https://rpdl.net/news/december-2021/)
