@@ -8,8 +8,17 @@ description: "Safely download games, FAST."
 
 # Thank you for considering donating!  
 
-**Our current bills are approximately 200euro monthly**.  
-**Our next goal** is to upgrade to two 40tb permanent storage nodes. To accomplish that we'll need to **increase funding to 250euro**. We have several options when it comes to donating:
+**Our current bills are approximately 340euro monthly**.  
+
+```
+~140     2x 40tb storage servers
+~90      4x cache nodes (eu + na)
+~40      3x reverse proxies and a load balancer
+~50      5 nodes of various sizes to run our platform.
+~20-30   subscriptions for providers like mega/pixeldrain/gofile
+```
+
+We have several options when it comes to donating:
 
 # [ko-fi.com/rpdl](https://ko-fi.com/rpdl)
 
