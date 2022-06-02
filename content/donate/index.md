@@ -14,7 +14,7 @@ description: "Safely download games, FAST."
 ~140     2x 40tb storage servers
 ~90      4x cache nodes (eu + na)
 ~40      3x reverse proxies and a load balancer
-~50      5 nodes of various sizes to run our platform.
+~50      5 nodes of various sizes to run our platform
 ~20-30   subscriptions for providers like mega/pixeldrain/gofile
 ```
 
