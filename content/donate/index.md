@@ -61,7 +61,7 @@ description: "Safely download games, FAST."
   style="background-color:#6772E5;color:#0f172a;padding:5px 50px;border:0;border-radius:5px;font-size:1em;cursor:pointer"
   data-price-id="price_1L7qGsIcakyhRRzJdUg6U81E"
   role="link"
-  data-checkout-mode="subscription"
+  data-checkout-mode="payment"
   type="button"
 >
   €2 Once&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,7 +70,7 @@ description: "Safely download games, FAST."
   style="background-color:#6772E5;color:#0f172a;padding:5px 50px;border:0;border-radius:5px;font-size:1em;cursor:pointer"
   data-price-id="price_1L7qJEIcakyhRRzJoOayMTQZ"
   role="link"
-  data-checkout-mode="subscription"
+  data-checkout-mode="payment"
   type="button"
 >
   €5 Once&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,7 +79,7 @@ description: "Safely download games, FAST."
   style="background-color:#6772E5;color:#0f172a;padding:5px 50px;border:0;border-radius:5px;font-size:1em;cursor:pointer"
   data-price-id="price_1L7qJuIcakyhRRzJ8fKKiHRu"
   role="link"
-  data-checkout-mode="subscription"
+  data-checkout-mode="payment"
   type="button"
 >
   €10 Once&nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,7 +88,7 @@ description: "Safely download games, FAST."
   style="background-color:#6772E5;color:#0f172a;padding:5px 50px;border:0;border-radius:5px;font-size:1em;cursor:pointer"
   data-price-id="price_1L7qKOIcakyhRRzJScrawWT4"
   role="link"
-  data-checkout-mode="subscription"
+  data-checkout-mode="payment"
   type="button"
 >
   €20 Once&nbsp;&nbsp;&nbsp;&nbsp;
