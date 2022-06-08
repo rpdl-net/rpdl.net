@@ -135,8 +135,4 @@ description: "Safely download games, FAST."
     </script>
 {{< /rawhtml >}}
 
-
-# [ko-fi.com/rpdl](https://ko-fi.com/rpdl)
-
-# [buymeacoffee.com/rpdl](https://buymeacoffee.com/rpdl)
 #### Without you guys none of this would be possible, thank you so much.
