@@ -92,11 +92,6 @@ There's been a few new channels, admittedly mostly for me to solicit help when n
 It's too early to tell but I think the whitelisting will have a very positive outlook on our network.  
 It's the first day but we're seeing a ~35% decrease which is good. Maybe half might be legitimate users that haven't caught up yet but being able to remove 20% of traffic which we didn't want will be a nice load off our network.  
 
-We also passed 50% funding on our [patreon](https://patreon.com/rpdl) which is really good. It's my goal for January to bump us from current levels (62euro) to 110euro to match our monthly expenses. You can get a better overview on [our donate page](/donate/).  
-
-If we pass that goal, we'll then be looking to reinforce again with another permanent storage node, along with a dedicated build/utility node.
-All things considered, it looks very healthy and I'm super happy with our progress!
-
 ## development
 
 We will eventually be building a new site for `rpdl.net`. At the very least, we need an RSS feed but there are several parts of the site that just aren't good enough, for example the search sucks and we need to implement a full blown tagging system.

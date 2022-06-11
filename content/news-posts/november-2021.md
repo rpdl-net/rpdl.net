@@ -67,8 +67,6 @@ The issues I concentrate on most are temporary and outside of my control - f95zo
 
 One issue I do face is that on busy days, my servers are routinely pinned at 100% usage. There's no way around this except adding more servers to spread the load out. I go into this a little in my post on f95zone that I linked above.  
 
-If you do have a few bucks spare, I'd be extremely appreciative if you tossed some my way via [my patreon](https://www.patreon.com/rpdl).  
-
 ## december and looking to the future
 
 This project is a bit like a startup, it's creaking under it's own weight and really needs a bit of investment to support itself. The traffic and growth shows we have something special here and truly, the sky is the limit. 
@@ -88,7 +86,7 @@ Before starting this I chatted with the person behind Nopy, I was and still am i
 
 Thank you so much to everyone on Discord who's helping with spotting leaks, typos, errors and issues. Frankly there are too many of you to name. Please, keep doing what you're doing, it's a group effort and always will be - I'm just the person at the captains wheel steering it.
 
-There's still an incredibly long way to go but I'm convinced we'll not only reach those same heights but one day, pass them too. If you want to join the 302 people and myself on Discord, [click here](/discord/) and if you feel so inclined, here's [my patreon](https://patreon.com/rpdl) again.
+There's still an incredibly long way to go but I'm convinced we'll not only reach those same heights but one day, pass them too. If you want to join the 302 people and myself on Discord, [click here](/discord/).
 
 See, I knew I'd write up a huge essay. Anyways, with that we'll say goodbye to November and hello to December!
 

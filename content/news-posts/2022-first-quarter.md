@@ -122,7 +122,6 @@ Our funding at the moment is good but we're always looking to expand. One aspect
 [If you wanna join the cool kids club.](https://rpdl.net/donate/)  
 
 PS: We still don't have advertisements and never will.  
-PPS: We also added [Ko-fi](https://ko-fi.com/rpdl) and our application to subscribestar was denied as our project doesn't suit them.  
 PPPS: We also added a $1 donation tier because I've no idea why we didn't have one before.  
 
 # The Survey {#survey}

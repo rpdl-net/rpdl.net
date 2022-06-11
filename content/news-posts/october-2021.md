@@ -38,7 +38,6 @@ As of now there's been 325 commits to the site too, an average of about 6-8 upda
 # Servers
 
 One thing I noticed is that while Europe is currently pretty well served, speeds to America especially are strained. I do actively need to add new servers to the pool to better service more areas. My current setup will also hit their bandwidth limits relatively soon, probably by the end of December.
-I updated [our patreon](https://patreon.com/rpdl) recently to reflect this.
 
 Bittorrent is the way forward and with the proper infrastructure in place, we could quite literally, seed ALL the Ren'Py content we can find. I'm slowly expanding our catalogue too, adding new games every day. Eventually we'll cover all Ren'Py games - hopefully by Christmas.
 
